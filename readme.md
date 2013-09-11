@@ -4,7 +4,9 @@ Hovercolor.js
 
 A jQuery plugin to colorize an image on hover.
 
-[Available on Github](github.com/mrchimp/hovercolor)
+[Available on Github](https://github.com/mrchimp/hovercolor)
+
+[Demo](http://deviouschimp.co.uk/misc/hovercolor/)
 
 Example
 -------
